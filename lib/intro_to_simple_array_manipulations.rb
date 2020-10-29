@@ -22,6 +22,5 @@ def pop_with_args(array)
  end
  
  def shift_with_args(array)
-   @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  @im_so_over_this_city= @my_favorite_cities.shift(2)
- end
+  @ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+  

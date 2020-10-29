@@ -23,4 +23,5 @@ def pop_with_args(array)
  
  def shift_with_args(array)
   @ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-  
+  @brands_removed = @ice_cream_brands.shift(2)
+end
